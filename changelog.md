@@ -1,5 +1,7 @@
 # Changelog
 
+* TBD:
+  * Removed grunt - replaced with npm run scripts.
 * v1.16.0:
   * Fixed-up several sources, getting anonymityLevel and protocols where possible.
 * v1.15.0:
